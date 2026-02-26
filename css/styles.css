@@ -1,4 +1,9 @@
-div.header-img .col-lg-12{
-    background: url("../img/header-picture.jpg") center no-repeat;
-    background-size: cover; 
+.content-wrapper {
+    width: 90%;
+}
+
+.header-img{
+    width: auto;
+    height: 450px;
+    background-size: contain;
 }
