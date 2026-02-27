@@ -1,5 +1,16 @@
-.content-wrapper {
-    width: 90%;
+.main-h {
+    background-color: #d0deb5;
+
+}
+
+.heading {
+    background-color: antiquewhite;
+}
+
+
+.main-h-p {
+    border: 2px solid #eaa8c4;
+    
 }
 
 .header-img{
