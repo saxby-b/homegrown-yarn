@@ -23,8 +23,33 @@
     background-size: contain;
 }
 
+.main-crochet {
+    background-image: url("../img/main-crochet.jpg");
+    background-size: contain;
+}
+
+.main-knitting {
+    background-image: url("../img/main-knittin.jpg");
+     background-size: contain;
+}
+
+.main-sheep {
+    background-image: url("../img/main-sheep.jpg");
+}
+
+
 .main-story {
     background-image: url("../img/main-story.jpg");
+    background-size: contain;
+}
+
+.main-what {
+    background-image: url("../img/main-what-next.jpg");
+    background-size: contain;
+}
+
+.main-yarn {
+    background-image: url("../img/main-yarn.jpg");
     background-size: contain;
 }
 
