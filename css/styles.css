@@ -1,10 +1,14 @@
 .main-h {
     background-color: #d0deb5;
+    height: 400px;
 
 }
 
 .heading {
     background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -18,3 +22,15 @@
     height: 450px;
     background-size: contain;
 }
+
+.main-story {
+    background-image: url("../img/main-story.jpg");
+    background-size: contain;
+}
+
+.main-news {
+    object-fit: cover;
+    width: 100%;
+    row-gap: 20px;
+}
+
