@@ -23,7 +23,7 @@
     background-size: contain;
 }
 
-.main-crochet {
+/*.main-crochet {
     background-image: url("../img/main-crochet.jpg");
     background-size: contain;
 }
@@ -51,11 +51,12 @@
 .main-yarn {
     background-image: url("../img/main-yarn.jpg");
     background-size: contain;
-}
+} */
 
 .main-news {
     object-fit: cover;
-    width: 100%;
-    row-gap: 20px;
-}
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+} 
 
